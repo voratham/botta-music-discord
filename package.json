@@ -1,0 +1,21 @@
+{
+  "name": "botta-music",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "github:discordjs/opus",
+    "@discordjs/voice": "^0.6.0",
+    "discord-player": "^5.1.0",
+    "discord.js": "^13.2.0",
+    "ffmpeg-static": "^4.4.0",
+    "youtube-search": "^1.1.6",
+    "ytdl-core": "^4.9.1"
+  }
+}
